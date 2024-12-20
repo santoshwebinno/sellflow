@@ -29,7 +29,7 @@
     "@react-native-community/masked-view": "0.1.10",
     "@react-navigation/bottom-tabs": "^5.11.15",
     "@react-navigation/drawer": "^6.4.3",
-    "@react-navigation/native": "^5.9.8",
+    "@react-navigation/native": "^7.0.14",
     "@react-navigation/stack": "^5.14.9",
     "apollo-cache-inmemory": "^1.6.5",
     "apollo-cache-persist": "^0.1.1",
